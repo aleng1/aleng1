@@ -2,7 +2,7 @@
 <h3 align="center">A software engineering student from Malaysia 🇲🇾</h3>
 
 
-### Programming Languages:
+### 👨‍💻 Programming Languages:
 
 <p align="left">
     <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
@@ -25,7 +25,7 @@
     </a>
 </p>
 
-### Frontend Development:
+### 🌐 Frontend Development:
 
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -34,7 +34,7 @@
     <!-- Add other frontend technologies/icons here -->
 </p>
 
-### Backend Development:
+### 🚀 Backend Development:
 
 <p align="left">
     <a href="https://graphql.org" target="_blank" rel="noreferrer">
@@ -46,7 +46,8 @@
     <!-- Add other backend technologies/icons here -->
 </p>
 
-### Mobile App Development:
+
+### 📱 Mobile App Development:
 
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -55,7 +56,7 @@
     <!-- Add other mobile app development technologies/icons here -->
 </p>
 
-### AI/ML:
+### 🧠 AI/ML:
 
 <p align="left">
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
@@ -64,7 +65,7 @@
     <!-- Add other AI/ML technologies/icons here -->
 </p>
 
-### Database:
+### 🛢️ Database:
 
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
