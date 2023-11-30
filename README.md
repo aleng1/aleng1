@@ -83,4 +83,8 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
     <!-- Add other technologies/icons here -->
+    <br/>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=aleng1&theme=dark&hide_border=false)<br/>
