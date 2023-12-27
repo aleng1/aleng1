@@ -43,6 +43,9 @@
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
     </a>
+    <a href="https://akka.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/akkaio/akkaio-icon.svg" alt="akka" width="40" height="40"/>
+</a>
     <!-- Add other backend technologies/icons here -->
 </p>
 
