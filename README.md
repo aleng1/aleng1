@@ -41,11 +41,11 @@
         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
     </a>
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
+        <img src="https://www.seekpng.com/png/full/70-704617_white-on-transparent-kafka-logo-svg.png" alt="kafka" width="80" height="40"/> 
     </a>
     <a href="https://akka.io/" target="_blank" rel="noreferrer">
-    <img src="https://akka.io/resources/images/akka_full_color.svg" alt="akka" width="40" height="40"/>
-</a>
+        <img src="https://akka.io/resources/images/akka_full_color.svg" alt="akka" width="50" height="35"/>
+    </a>
     <!-- Add other backend technologies/icons here -->
 </p>
 
