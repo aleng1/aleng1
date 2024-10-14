@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halim</h1>
 <h3 align="center">A software engineering student from Malaysia 🇲🇾</h3>
 
+---
 
 ### 👨‍💻 Programming Languages:
 
@@ -25,14 +26,21 @@
     </a>
 </p>
 
+---
+
 ### 🌐 Frontend Development:
 
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 0 10px;"/>
+    </a>
     <!-- Add other frontend technologies/icons here -->
 </p>
+
+---
 
 ### 🚀 Backend Development:
 
@@ -44,11 +52,15 @@
         <img src="https://www.seekpng.com/png/full/70-704617_white-on-transparent-kafka-logo-svg.png" alt="kafka" width="80" height="40"/> 
     </a>
     <a href="https://akka.io/" target="_blank" rel="noreferrer">
-        <img src="https://akka.io/resources/images/akka_full_color.svg" alt="akka" width="50" height="35"/>
+        <img src="https://akka.io/resources/images/akka_full_color.svg" alt="akka" width="50" height="40"/>
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 0 10px;"/>
     </a>
     <!-- Add other backend technologies/icons here -->
 </p>
 
+---
 
 ### 📱 Mobile App Development:
 
@@ -56,8 +68,13 @@
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a>
+    <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer">
+        <img src="https://i.pinimg.com/originals/0a/28/37/0a283783146fdc9cfecb98c0d4756757.png" alt="xml" width="40" height="40" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 0 10px;"/>
+    </a>
     <!-- Add other mobile app development technologies/icons here -->
 </p>
+
+---
 
 ### 🧠 AI/ML:
 
@@ -67,6 +84,8 @@
     </a>
     <!-- Add other AI/ML technologies/icons here -->
 </p>
+
+---
 
 ### 🛢️ Database:
 
@@ -79,6 +98,8 @@
     </a>
     <!-- Add other database technologies/icons here -->
 </p>
+
+---
 
 ### Other:
 
@@ -93,5 +114,27 @@
     <br/>
 </p>
 
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aleng1&theme=dark&hide_border=false)<br/>
+
+---
+
+### 📫 Connect with Me:
+Feel free to reach out to me on these platforms!
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/abdul-halim-b33ab7229/" target="_blank" rel="noreferrer" style="display: inline-block; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-right: 10px;"/>
+    </a>
+    <a href="mailto:abdhalim2002@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
+    </a>
+</p>
+
+---
+
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=B7F734&width=435&lines=Thank+you+for+visiting...;Lets+connect+and+code!" alt="Typing SVG" /></a>
+</p>
